@@ -1,0 +1,2 @@
+Primera línea del segundo fichero
+script
